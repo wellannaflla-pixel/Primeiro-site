@@ -37,8 +37,8 @@ Você pode conferir o site funcionando em tempo real através do link oficial no
 
 Este projeto foi desenvolvido por **Wellington Silva de Jesus**, estudante de Full Stack Backend, com o objetivo de unir competências técnicas de frontend com a necessidade urgente de educação digital no Brasil.
 
-- LinkedIn [www.linkedin.com/in/wellington-jesus-919450359]
-- GitHub [https://github.com/wellannaflla-pixel]
+- **LinkedIn** **[www.linkedin.com/in/wellington-jesus-919450359]**
+- **GitHub** **[https://github.com/wellannaflla-pixel]**
 
 ---
 *Este repositório está aberto para contribuições. Se encontrar algo que possa ser melhorado, sinta-se à vontade para abrir uma Issue!*
